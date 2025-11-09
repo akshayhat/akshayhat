@@ -1,8 +1,11 @@
 # Hi, I'm Akshay Mishra 👋
 
-I love building real-world systems that solve practical problems.  
-My work spans backend engineering, cloud, AI workflows, security, and blockchain-based identity verification.  
-I enjoy exploring how systems scale, how data flows, and how intelligence can be layered on top.
+I’m a backend developer who genuinely enjoys building systems that work fast, scale well, and don’t set themselves on fire in production.  
+I spend my time juggling Go routines, distributed systems diagrams, and existential questions like:  
+“Why is it working now when I changed nothing?” 🤔
+
+I believe in clean architecture, meaningful automation, and writing code that Future Me won’t hate.  
+If I’m not coding, I’m probably breaking things so I can learn how to fix them better 😌
 
 ## 🔥 What I’m Working On
 - Building scalable Load Balancer from scratch in Go
