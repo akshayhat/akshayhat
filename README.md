@@ -39,13 +39,15 @@ Basically — if your project involves **scaling, optimizing, securing, or autom
 
 
 ## 🛠️ Tech Stack
-**Languages:** Go, Python, JavaScript, SQL  
-**Backend:** Node.js, FastAPI, Gin, Express  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud:** GCP, Azure  
-**Blockchain:** Ethereum, Solidity, Metamask  
-**System Tools:** Docker, Git, Linux, CI/CD  
-**APIs:** REST, Webhooks, WebSockets
+
+💻 **Languages:** Go, Python, JavaScript, SQL  
+🧰 **Backend:** Node.js, FastAPI, Gin, Express  
+🗄️ **Databases:** PostgreSQL, MongoDB, Redis  
+☁️ **Cloud:** GCP, Azure  
+⛓️ **Blockchain:** Ethereum, Solidity, Metamask  
+🛠️ **System Tools:** Docker, Git, Linux, CI/CD  
+🔗 **APIs:** REST, Webhooks, WebSockets
+
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/akshayhat
