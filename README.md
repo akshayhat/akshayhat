@@ -48,9 +48,8 @@ Basically — if your project involves **scaling, optimizing, securing, or autom
 **APIs:** REST, Webhooks, WebSockets
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/AkshayMishra
-- LinkedIn: https://linkedin.com/in/akshay-mishra/
-- Email: *your email here*
+- GitHub: https://github.com/akshayhat
+- Email: akshaymis2302@gmail.com
 
 > I believe in building things that are simple, scalable, and meaningful.  
 > Always open to discussion, brainstorming, and new opportunities.
