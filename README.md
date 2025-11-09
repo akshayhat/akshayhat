@@ -22,18 +22,21 @@ If I’m not coding, I’m probably breaking things so I can learn how to fix th
 - **Real-Time Stock Dashboard (J.P. Morgan Internship)** — Streaming finance data dashboard.
 - **Password Hash Security Audit (Goldman Sachs)** — Cracked & analyzed password hashes using Hashcat optimization.
 
-## 🧠 What I’m Learning & Growing In
-- Deep backend engineering & distributed systems
-- System Design fundamentals + real case patterns
-- Data Warehousing & Cloud (GCP + Azure)
-- AI-powered document extraction & automation workflows
-- Smart contract and decentralized identity verification
+🧭 What I’m Currently Leveling Up In & Open to Collaborating On
+I’m deepening my skills in backend engineering, distributed systems, cloud fundamentals, and system design patterns — the kind of things that make services reliable, scalable, and actually fun to build.
 
-## 🤝 Looking to Collaborate On
-- Backend-heavy, scalable services
-- Open-source infrastructure / DevTools
-- Systems requiring security, identity, or performance tuning
-- AI + DevOps automation workflows
+I’m also exploring AI-powered automation workflows and document intelligence systems — because if a task can be automated, it should be ✨
+
+If you’re working on any of the following, I’d love to collaborate or brainstorm:
+- Scalable backend services & microservice architectures
+- Distributed systems & load balancing strategies
+- Data pipelines, warehousing, and cloud-native deployments
+- Blockchain identity, security, and verification workflows
+- AI + DevOps automation & real-world intelligent tooling
+
+Basically — if your project involves **scaling, optimizing, securing, or automating** systems,  
+we’re already speaking the same language 😄
+
 
 ## 🛠️ Tech Stack
 **Languages:** Go, Python, JavaScript, SQL  
