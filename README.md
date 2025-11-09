@@ -7,14 +7,14 @@ I spend my time juggling Go routines, distributed systems diagrams, and existent
 I believe in clean architecture, meaningful automation, and writing code that Future Me won’t hate.  
 If I’m not coding, I’m probably breaking things so I can learn how to fix them better 😌
 
-## 🔥 What I’m Working On
+## What I’m Working On
 - Building scalable Load Balancer from scratch in Go
 - Designing distributed system patterns for backend services
 - Improving data pipelines and warehouse fundamentals
 - Experimenting with LLM-based agent workflows & API integrations
 - Strengthening competitive programming and core DSA patterns
 
-## 🚀 Projects I’m Proud Of
+## Projects I’m Proud Of
 - **Skill Verification System (Blockchain)** — Verified skill authenticity using smart contracts, encrypted chat & role-based access.
 - **Currency Conversion API (Fintech-grade)** — High-accuracy multi-source FX rate service with caching and failover.
 - **Load Balancer in Go (In Progress)** — Routing, health checks, weighted round robin, monitoring.
@@ -22,7 +22,8 @@ If I’m not coding, I’m probably breaking things so I can learn how to fix th
 - **Real-Time Stock Dashboard (J.P. Morgan Internship)** — Streaming finance data dashboard.
 - **Password Hash Security Audit (Goldman Sachs)** — Cracked & analyzed password hashes using Hashcat optimization.
 
-🧭 What I’m Currently Leveling Up In & Open to Collaborating On
+## What I’m Currently Leveling Up In & Open to Collaborating On
+
 I’m deepening my skills in backend engineering, distributed systems, cloud fundamentals, and system design patterns — the kind of things that make services reliable, scalable, and actually fun to build.
 
 I’m also exploring AI-powered automation workflows and document intelligence systems — because if a task can be automated, it should be ✨
