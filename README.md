@@ -35,8 +35,7 @@ If you’re working on any of the following, I’d love to collaborate or brains
 - Blockchain identity, security, and verification workflows
 - AI + DevOps automation & real-world intelligent tooling
 
-Basically — if your project involves **scaling, optimizing, securing, or automating** systems,  
-we’re already speaking the same language 😄
+Basically — if your project involves **scaling, optimizing, securing, or automating** systems, we’re already speaking the same language 😄
 
 
 ## 🛠️ Tech Stack
