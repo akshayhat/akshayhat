@@ -1,4 +1,4 @@
-# Hi, I'm Akshay Mishra 👋
+# Hi, I'm Akshay👋
 
 I’m a backend developer who genuinely enjoys building systems that work fast, scale well, and don’t set themselves on fire in production.  
 I spend my time juggling Go routines, distributed systems diagrams, and existential questions like:  
